@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Soul Reset Program — Mokia Praga</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Mulish:ital,wght@0,300;0,400;0,600;0,700;1,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<!-- ══════════ ACCESS GATE ══════════ -->
+<div class="gate hidden" id="gate">
+  <div class="gate-card">
+    <svg class="mark" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+      <circle cx="17" cy="17" r="15" stroke="#D9B679" stroke-width="1.3" opacity=".55"/>
+      <circle cx="17" cy="17" r="8"  stroke="#D9B679" stroke-width="1.3"/>
+      <circle cx="17" cy="17" r="2.4" fill="#D9B679"/>
+    </svg>
+    <h1 id="gate-title">Soul Reset Program</h1>
+    <p>This space is for Soul Reset members. Enter the access code you received.</p>
+    <form class="gate-form" id="gate-form">
+      <input class="gate-input" id="gate-input" type="password" placeholder="Access code"
+             autocomplete="off" autocapitalize="none" aria-label="Access code">
+      <button class="gate-btn" type="submit">Enter the space</button>
+      <div class="gate-error" id="gate-error" role="alert"></div>
+    </form>
+    <div class="gate-help">Don't have a code? <a id="gate-ig" href="#" target="_blank" rel="noopener">Message on Instagram</a></div>
+  </div>
+</div>
+
+<!-- ══════════ SITE ══════════ -->
+<div id="site" class="hidden">
+
+  <header class="top">
+    <a class="brand" href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">
+      <svg class="mark" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+        <circle cx="17" cy="17" r="15" stroke="#D9B679" stroke-width="1.3" opacity=".55"/>
+        <circle cx="17" cy="17" r="8"  stroke="#D9B679" stroke-width="1.3"/>
+        <circle cx="17" cy="17" r="2.4" fill="#D9B679"/>
+      </svg>
+      <span class="brand-name" id="brand-name">Soul Reset</span>
+    </a>
+    <nav class="socials" id="top-socials" aria-label="Social links"></nav>
+  </header>
+
+  <section class="hero">
+    <div class="eyebrow" id="hero-eyebrow">A private course</div>
+    <h1 id="hero-title">Soul Reset Program</h1>
+    <p class="tagline" id="hero-tagline"></p>
+    <div class="count"><span class="dot"></span><span id="hero-count"></span></div>
+  </section>
+
+  <main class="wrap">
+    <div id="course"></div>
+  </main>
+
+  <footer>
+    <div class="foot-name" id="foot-name">Soul Reset Program</div>
+    <div class="socials" id="foot-socials"></div>
+    <div id="foot-help"></div>
+  </footer>
+
+</div>
+
+<!-- Your course data first, then the engine -->
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
