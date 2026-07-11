@@ -37,14 +37,26 @@ const COURSE = [
     module: "A",
     title: "Consciousness Awakening",
     lessons: [
-      { title: "Why You Get Attached", link: "https://www.youtube.com/watch?v=HiN4BBR0Tuk" },
-      { title: "How the Ego Self Destroys Your Life", link: "https://www.youtube.com/watch?v=zrL9gN3KjSA" },
+      {
+        title: "Why You Get Attached",
+        link: "https://www.youtube.com/watch?v=HiN4BBR0Tuk",
+      },
+      {
+        title: "How the Ego Self Destroys Your Life",
+        link: "https://www.youtube.com/watch?v=zrL9gN3KjSA",
+      },
       {
         title: "Consciousness & Killing the Ego Self",
         link: "https://www.youtube.com/watch?v=JFj0OTWAfrA",
         exercises: [
-          { title: "Observer State Meditation", link: "https://www.youtube.com/watch?v=dZyRFMY8kx8" },
-          { title: "Present Moment Practice", link: "" },
+          {
+            title: "Observer State Meditation",
+            link: "https://www.youtube.com/watch?v=dZyRFMY8kx8",
+          },
+          {
+            title: "Present Moment Practice",
+            link: "https://youtu.be/A2Iko-IBwss",
+          },
         ],
       },
     ],
