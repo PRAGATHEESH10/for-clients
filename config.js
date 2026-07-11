@@ -55,7 +55,7 @@ const COURSE = [
           },
           {
             title: "Present Moment Practice",
-            link: "https://www.youtube.com/watch?v=A2Iko-IBwss",
+            link: "https://youtu.be/A2Iko-IBwss?si=RU-XiSVMNBmz5vWC",
           },
         ],
       },
