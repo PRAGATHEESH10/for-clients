@@ -55,13 +55,13 @@ const COURSE = [
           },
           {
             title: "Present Moment Practice",
-            link: "https://youtu.be/A2Iko-IBwss",
+            link: "https://www.youtube.com/A2Iko-IBwss",
           },
         ],
       },
       {
         title: "Detachment",
-        link: "https://youtu.be/Gz9Z2pOZatM",
+        link: "https://www.youtube.com/Gz9Z2pOZatM",
       },
     ],
   },
