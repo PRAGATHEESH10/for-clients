@@ -61,7 +61,7 @@ const COURSE = [
       },
       {
         title: "Detachment",
-        link: "https://www.youtube.com/Gz9Z2pOZatM",
+        link: "https://www.youtube.com/watch?v=Gz9Z2pOZatM",
       },
     ],
   },
