@@ -63,6 +63,10 @@ const COURSE = [
         title: "Detachment",
         link: "https://www.youtube.com/watch?v=Gz9Z2pOZatM",
       },
+      {
+        title: "Painbody effects",
+        link: "https://youtu.be/DfWQPk2xie8?si=-88NaL_AXv5mWpmS",
+      },
     ],
   },
   {
