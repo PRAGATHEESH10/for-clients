@@ -60,7 +60,7 @@ const COURSE = [
         ],
       },
       {
-        title: Detachment,
+        title: "Detachment",
         link: "https://youtu.be/Gz9Z2pOZatM",
       },
     ],
