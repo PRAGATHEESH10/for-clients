@@ -66,6 +66,12 @@ const COURSE = [
       {
         title: "Painbody effects",
         link: "https://youtu.be/DfWQPk2xie8?si=-88NaL_AXv5mWpmS",
+        exercises: [
+          {
+            title: "Let go your emotions",
+            link: "https://www.youtube.com/watch?v=LwkRxOgmBwI",
+          },
+        ],
       },
     ],
   },
