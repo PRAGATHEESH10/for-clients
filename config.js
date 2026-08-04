@@ -77,9 +77,17 @@ const COURSE = [
   },
   {
     module: "B",
-    title: "Module B",
-    note: "Unlocking soon — new lessons will appear here automatically.",
+    title: "Identity Shifting",
     comingSoon: true,
-    lessons: [],
+    lessons: [
+      {
+        title: "How belief system works?",
+        link: "https://www.youtube.com/watch?v=R_sa5n2DNWo",
+      },
+      {
+        title: "How do I detach from an old belief?",
+        link: "https://www.youtube.com/watch?v=oip5nSxv1pY",
+      },
+    ],
   },
 ];
