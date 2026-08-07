@@ -88,6 +88,10 @@ const COURSE = [
         title: "How do I detach from an old belief?",
         link: "https://www.youtube.com/watch?v=oip5nSxv1pY",
       },
+      {
+        title: "Belief System & (Energy, Frequency & Vibration)",
+        link: "https://youtu.be/F3YdSt2x7xE?si=o6j60DaNNp4i7Jl2",
+      },
     ],
   },
 ];
