@@ -90,7 +90,7 @@ const COURSE = [
       },
       {
         title: "Belief System & (Energy, Frequency & Vibration)",
-        link: "https://youtu.be/F3YdSt2x7xE?si=o6j60DaNNp4i7Jl2",
+        link: "https://www.youtube.com/watch?v=F3YdSt2x7xE",
       },
     ],
   },
