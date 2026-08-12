@@ -92,6 +92,10 @@ const COURSE = [
         title: "Belief System & (Energy, Frequency & Vibration)",
         link: "https://www.youtube.com/watch?v=F3YdSt2x7xE",
       },
+      {
+        title: "How to Do Visualization Properly",
+        link: "https://www.youtube.com/watch?v=sMWJYFcgzP4",
+      },
     ],
   },
 ];
