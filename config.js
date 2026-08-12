@@ -89,7 +89,7 @@ const COURSE = [
         link: "https://www.youtube.com/watch?v=oip5nSxv1pY",
       },
       {
-        title: "Belief System & (Energy, Frequency & Vibration)",
+        title: "Belief System! & (Energy, Frequency & Vibration)",
         link: "https://www.youtube.com/watch?v=F3YdSt2x7xE",
       },
       {
